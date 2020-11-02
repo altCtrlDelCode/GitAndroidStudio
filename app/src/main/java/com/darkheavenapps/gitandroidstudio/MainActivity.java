@@ -13,5 +13,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Log.i(TAG, "onCreate: ");
+        
+        Log.i(TAG, "Log added on server");
     }
 }
