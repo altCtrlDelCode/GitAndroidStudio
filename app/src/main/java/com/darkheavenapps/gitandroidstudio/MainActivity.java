@@ -15,5 +15,6 @@ public class MainActivity extends AppCompatActivity {
         Log.i(TAG, "onCreate: ");
         
         Log.i(TAG, "Log added on server");
+        Log.i(TAG, "unnecessary log");
     }
 }
